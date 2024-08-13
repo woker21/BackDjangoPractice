@@ -1,0 +1,2 @@
+# BackDjangoPractice
+ practice with django
